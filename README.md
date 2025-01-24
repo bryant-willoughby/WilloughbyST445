@@ -1,6 +1,6 @@
 # WilloughbyST445
 
-I completed a final project for ST 445 (Statistical Computing & Data Management). I was assigned project instructions with the two major goals of (a) data handling and (b) result generation. Below, I describe the respective files (and folder) to accomplish these tasks: 
+I completed a final project for ST 445 (Statistical Computing & Data Management). I was assigned project instructions with two major goals (a) data handling and (b) result generation. Below, I describe the respective files (and folder) to accomplish these tasks: 
 
 1. Final Project.pdf
 - You can access the case study and other resources for the textbook with the following link: https://jonathanduggins.com/books
